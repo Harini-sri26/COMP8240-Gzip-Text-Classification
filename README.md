@@ -154,6 +154,14 @@ The k=5 compression-based result was the highest among the tested k values of 1,
 
 The TF-IDF baseline outperformed the compression-based method across all five evaluated splits. These splits reuse the same underlying dataset and should not be treated as five independent datasets.
 
+### Validation-based neighbour selection
+
+The initial comparison evaluated k = 1, 2, 3, and 5 on the test partition, with k = 5 achieving the highest observed accuracy (64%). This is an exploratory result because the test set influenced hyperparameter selection.
+
+A retrospective validation experiment divided the original 200 training examples into 150 internal training examples and 50 validation examples using a topic-disjoint split. Validation selected k = 1 (tied with k = 2 at 58% accuracy). After restoring all 200 training examples, the selected classifier achieved 60% accuracy on the original 50-example test partition.
+
+The validation procedure does not use test labels to select k, although the analysis was conducted after the initial test results had been examined.
+
 ## Environment Setup
 
 The experiments were successfully reproduced using Python 3.9.25 in a Conda environment on macOS.
@@ -198,6 +206,7 @@ python original_codebase/student_baseline.py
 python original_codebase/student_performance_report.py
 python original_codebase/student_error_analysis.py
 python original_codebase/student_robustness.py
+python original_codebase/student_validation_selection.py
 ```
 
 ### AG News Replication
