@@ -1,0 +1,21 @@
+=== STUDENT ENQUIRY EVALUATION (k=5) ===
+Test examples: 50
+Accuracy: 64.00%
+
+Classification report:
+                 precision    recall  f1-score   support
+
+      enrolment      0.467     0.700     0.560        10
+           fees      0.778     0.700     0.737        10
+     assessment      0.667     0.600     0.632        10
+campus_services      0.778     0.700     0.737        10
+     it_support      0.625     0.500     0.556        10
+
+       accuracy                          0.640        50
+      macro avg      0.663     0.640     0.644        50
+   weighted avg      0.663     0.640     0.644        50
+
+
+Confusion matrix saved to: /Users/harinisri/Desktop/Semester-3/COMP8240 - Applications of Data Science/Assignment/Project/My project/npc_gzip-main/original_codebase/student_confusion_matrix.png
+Incorrect predictions: 18
+Error examples saved to: /Users/harinisri/Desktop/Semester-3/COMP8240 - Applications of Data Science/Assignment/Project/My project/npc_gzip-main/original_codebase/student_errors_k5.csv

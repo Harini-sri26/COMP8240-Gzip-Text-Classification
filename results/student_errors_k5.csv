@@ -1,0 +1,19 @@
+text,true_label,predicted_label
+What is the process for requesting an assessment extension?,assessment,enrolment
+Can I get my fees refunded after I withdraw from a unit?,fees,enrolment
+How can I view the results from this semester?,assessment,enrolment
+Where are the student computer labs located?,campus_services,enrolment
+Where should I go for general student assistance?,campus_services,it_support
+Am I allowed to study more than the standard number of credit units?,enrolment,it_support
+How can I fix an issue accessing the iLearn website?,it_support,fees
+How do I report a technical problem through OneHelp?,it_support,assessment
+How do I request a fee refund after withdrawing from a course?,fees,enrolment
+Will my unit fees be returned if I withdraw?,fees,enrolment
+Where can I submit an IT support request?,it_support,enrolment
+Where are my university grades published?,assessment,it_support
+Where can I find student support services on campus?,campus_services,assessment
+How do I request permission to take extra subjects?,enrolment,campus_services
+How do I find out my grades for my assessments?,assessment,campus_services
+Where can I track a request I submitted for IT assistance?,it_support,enrolment
+What do I need to do if I want to leave a unit?,enrolment,fees
+What should I do if iLearn is not loading?,it_support,assessment

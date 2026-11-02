@@ -1,0 +1,7 @@
+KNN with compressor=gzip
+
+0it [00:00, ?it/s]
+20it [00:00, 1975.18it/s]
+Accuracy is 0.95
+spent: 0.02382493019104004
+

@@ -1,0 +1,8 @@
+numpy==1.22.4
+scipy==1.7.3
+scikit-learn==1.0.2
+matplotlib==3.5.3
+tqdm==4.65.0
+pathos==0.3.0
+torch==1.13.1
+torchtext==0.14.1

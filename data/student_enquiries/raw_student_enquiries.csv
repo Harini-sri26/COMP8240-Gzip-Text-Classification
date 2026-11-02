@@ -1,0 +1,251 @@
+id,text,label,source_topic
+1,How do I enrol in my units for next semester?,enrolment,unit enrolment
+2,Where can I add units to my enrolment?,enrolment,unit enrolment
+3,I need to enrol in subjects for the upcoming semester.,enrolment,unit enrolment
+4,What is the process for enrolling in a unit?,enrolment,unit enrolment
+5,Can someone tell me how to register for my units?,enrolment,unit enrolment
+6,How do I know which units to choose for my degree?,enrolment,choosing units
+7,Where can I find the units I need to study?,enrolment,choosing units
+8,I am not sure which subjects to select for my course.,enrolment,choosing units
+9,How can I decide what units to take next semester?,enrolment,choosing units
+10,Which units am I supposed to choose for my degree?,enrolment,choosing units
+11,How can I withdraw from a unit I am enrolled in?,enrolment,unit withdrawal
+12,"I want to drop a subject I am currently enrolled in, what is the process?",enrolment,unit withdrawal
+13,Where do I go to remove a unit from my enrolment?,enrolment,unit withdrawal
+14,Can I stop studying one of my units this semester?,enrolment,unit withdrawal
+15,What do I need to do if I want to leave a unit?,enrolment,unit withdrawal
+16,Can I withdraw from a unit after the census date?,enrolment,withdrawal after census date
+17,"I missed the census date, can I still drop a subject?",enrolment,withdrawal after census date
+18,What happens if I want to withdraw from a unit after the census date?,enrolment,withdrawal after census date
+19,Is late withdrawal from a unit still possible?,enrolment,withdrawal after census date
+20,"I need to leave a unit even though the census date has passed, what are my options?",enrolment,withdrawal after census date
+21,How do I withdraw completely from my course?,enrolment,course withdrawal
+22,I want to stop studying my degree. What should I do?,enrolment,course withdrawal
+23,Where can I submit a request to withdraw from my course?,enrolment,course withdrawal
+24,Can I discontinue my course before I finish it?,enrolment,course withdrawal
+25,What is the process if I no longer want to continue my degree?,enrolment,course withdrawal
+26,How many units can I take in a semester?,enrolment,study load
+27,What is considered a full-time study load?,enrolment,study load
+28,Can I study fewer units this semester?,enrolment,study load
+29,How many subjects do I need to take to remain full-time?,enrolment,study load
+30,I am unsure how many units I should enrol in.,enrolment,study load
+31,How can I check the prerequisites for a unit?,enrolment,unit prerequisites
+32,Why can't I enrol in a unit that has a prerequisite?,enrolment,unit prerequisites
+33,Do I need to complete another subject before taking this unit?,enrolment,unit prerequisites
+34,Where can I see the prerequisites a course requires?,enrolment,unit prerequisites
+35,I want to enrol in a subject but I am not sure if I meet the requirements?,enrolment,unit prerequisites
+36,Can I request a waiver to enrol in this unit?,enrolment,unit waiver
+37,How do I apply for a unit prerequisite waiver?,enrolment,unit waiver
+38,I don't meet the listed requirement. Can I still request permission to enrol?,enrolment,unit waiver
+39,Where can I submit a unit waiver request?,enrolment,unit waiver
+40,Can the prerequisite for a subject be waived?,enrolment,unit waiver
+41,Can I enrol in more units than the normal study load?,enrolment,credit overload
+42,How do I request permission to take extra subjects?,enrolment,credit overload
+43,I want to take more units this semester. Is that possible?,enrolment,credit overload
+44,Where can I apply for a credit overload?,enrolment,credit overload
+45,Am I allowed to study more than the standard number of credit units?,enrolment,credit overload
+46,How do I register for my tutorials?,enrolment,class registration
+47,Where can I choose my class times?,enrolment,class registration
+48,Where can I register for lectures and tutorials?,enrolment,class registration
+49,I enrolled in the unit but haven't selected my class times yet. How do I do that?,enrolment,class registration
+50,How can I change the class I registered for?,enrolment,class registration
+51,How can I check if I have any outstanding fees?,fees,checking outstanding fees
+52,Where can I see how much I owe in fees?,fees,checking outstanding fees
+53,I want to check whether there are unpaid charges on my account.,fees,checking outstanding fees
+54,How do I find my current outstanding fees?,fees,checking outstanding fees
+55,Can I see online if I have any fees that need to be paid?,fees,checking outstanding fees
+56,What payment methods can I use to pay my university fees?,fees,fee payment methods
+57,How can I pay my tuition fees?,fees,fee payment methods
+58,Can I pay my university fees online?,fees,fee payment methods
+59,What options are available for paying my fees?,fees,fee payment methods
+60,Where do I go to make a fee payment?,fees,fee payment methods
+61,Where are my university fees due dates listed?,fees,fee payment due date
+62,How can I find the deadline for paying my tuition fees?,fees,fee payment due date
+63,What date do I need to pay my fees by?,fees,fee payment due date
+64,I am not sure when my fees are due.,fees,fee payment due date
+65,Where can I check the due date for my university fees?,fees,fee payment due date
+66,where can I find my student fee invoice?,fees,student fee invoice
+67,How do I download an invoice for my university fees?,fees,student fee invoice
+68,I need a copy of my fee invoice. Where can I get it?,fees,student fee invoice
+69,Can I view my tuition fee invoice online?,fees,student fee invoice
+70,Where is my university fee statement or invoice available?,fees,student fee invoice
+71,How can an international student pay their tuition fees?,fees,international fee payment
+72,What are the payment options for international student fees?,fees,international fee payment
+73,Where should I pay my international tuition fees?,fees,international fee payment
+74,Can international student pay their fees online?,fees,international fee payment
+75,I need to pay my tuition fees as an international student. How do I do that?,fees,international fee payment
+76,Can I get my fees refunded after I withdraw from a unit?,fees,fee refund after withdrawal
+77,What happens to my tuition fees if I withdraw from a subject?,fees,fee refund after withdrawal
+78,Am I eligible for a tuition refund after dropping a unit?,fees,fee refund after withdrawal
+79,How do I request a fee refund after withdrawing from a course?,fees,fee refund after withdrawal
+80,Will my unit fees be returned if I withdraw?,fees,fee refund after withdrawal
+81,Can my HECS-HELP debt be remitted if I withdraw from a unit?,fees,HECS-HELP debt remission
+82,How do I apply to have HECS-HELP debt remitted?,fees,HECS-HELP debt remission
+83,Is it possible to reverse HECS-HELP debt for a withdrawn unit?,fees,HECS-HELP debt remission
+84,What happens to my HECS debt if I withdraw under special circumstances?,fees,HECS-HELP debt remission
+85,I withdrew from a unit and want to know if my HECS-HELP debt can be cancelled.,fees,HECS-HELP debt remission
+86,Can I have my FEE-HELP debt removed after withdrawing from a unit?,fees,FEE-HELP debt remission
+87,How do I request remission of a FEE-HELP debt?,fees,FEE-HELP debt remission
+88,what happens to my FEE-HELP debt if I withdrew due to special circumstances?,fees,FEE-HELP debt remission
+89,Can FEE-HELP charges for a withdrawn unit be reversed?,fees,FEE-HELP debt remission
+90,I need to know whether my FEE-HELP debt can be cancelled.,fees,FEE-HELP debt remission
+91,Where can I get a statement showing my outstanding charges?,fees,statement of outstanding charges
+92,How do I view a statement of the fees I still owe?,fees,statement of outstanding charges
+93,I need a document showing the unpaid charges on my student account.,fees,statement of outstanding charges
+94,Can I download a statement of my outstanding university fees?,fees,statement of outstanding charges
+95,Where can I find a summary of the charges remaining on my account?,fees,statement of outstanding charges
+96,Will I still have to pay for a unit if I withdraw from it?,fees,fee liability after withdrawal
+97,What happens to my fees if I drop a unit?,fees,fee liability after withdrawal
+98,Do I still owe tuition fees after withdrawing from a subject?,fees,fee liability after withdrawal
+99,"If I leave a unit, will I remain liable for its fees?",fees,fee liability after withdrawal
+100,How does withdrawing from a unit affect the fees I have to pay?,fees,fee liability after withdrawal
+101,How do I apply for special consideration?,assessment,special consideration
+102,Can I request special consideration if something affected my assessment?,assessment,special consideration
+103,Where do I submit a special consideration application?,assessment,special consideration
+104,What should I do if unexpected circumstances impacted my assessment?,assessment,special consideration
+105,I was unable to complete my assessment due to unforeseen events. How can I apply for special consideration?,assessment,special consideration
+106,How can I request an extension for my assessment?,assessment,assessment extension
+107,Can I get more time to complete my assignment?,assessment,assessment extension
+108,I don't think I can finish my assessment on time. What should I do?,assessment,assessment extension
+109,Where can I apply for an extension on my assessment?,assessment,assessment extension
+110,What is the process for requesting an assessment extension?,assessment,assessment extension
+111,What evidence do I need to provide for special consideration application?,assessment,special consideration evidence
+112,Do I need supporting documents when applying for special consideration?,assessment,special consideration evidence
+113,What documents should I provide with my special consideration request?,assessment,special consideration evidence
+114,Will I need evidence to support my special consideration application?,assessment,special consideration evidence
+115,What kind of documentation is accepted for special consideration requests?,assessment,special consideration evidence
+116,When is the deadline to apply for special consideration?,assessment,special consideration deadline
+117,How long do I have to submit a special consideration request?,assessment,special consideration deadline
+118,Can I apply for special consideration after the assessment deadline?,assessment,special consideration deadline
+119,How soon after an affected assessment should I apply for special consideration?,assessment,special consideration deadline
+120,I need to know when my special consideration application is due.,assessment,special consideration deadline
+121,Where can I check my assessment results?,assessment,assessment results
+122,How do I find out my grades for my assessments?,assessment,assessment results
+123,When will my final assessment results be released?,assessment,assessment results
+124,Where are my university grades published?,assessment,assessment results
+125,How can I view the results from this semester?,assessment,assessment results
+126,What does an incomplete grade mean?,assessment,incomplete grade
+127,Why does my result show as incomplete grade?,assessment,incomplete grade
+128,I received an incomplete grade for my unit. What does that mean?,assessment,incomplete grade
+129,What should I do if my grade is listed as incomplete?,assessment,incomplete grade
+130,Why hasn't a final grade been given for my subject?,assessment,incomplete grade
+131,When will I receive the results for my supplementary exam?,assessment,supplementary exam results
+132,Where can I see my supplementary assessment results?,assessment,supplementary exam results
+133,How do I check the grade from my supplementary exam?,assessment,supplementary exam results
+134,When are supplementary exam results released?,assessment,supplementary exam results
+135,I completed a supplementary exam. Where will the result appear?,assessment,supplementary exam results
+136,How can I appeal my final grade?,assessment,grade appeal
+137,What should I do if I think my grade is incorrect?,assessment,grade appeal
+138,Can I request a review of my assessment grade?,assessment,grade appeal
+139,Where do I submit a grade appeal?,assessment,grade appeal
+140,I disagree with my final grade. Is there a process to challenge it?,assessment,grade appeal
+141,What do the different university grades mean?,assessment,grading system
+142,How does the university grading system work?,assessment,grading system
+143,What mark do I need for each grade?,assessment,grading system
+144,Where can I find an explanation of the grading scale?,assessment,grading system
+145,How are marks converted into final grades?,assessment,grading system
+146,How do I submit my assignment through iLearn?,assessment,assessment submission through iLearn
+147,Where in iLearn should I upload my assessment?,assessment,assessment submission through iLearn
+148,I need to submit an assignment online. How do I do it?,assessment,assessment submission through iLearn
+149,How can I check whether my assignment was submitted on iLearn?,assessment,assessment submission through iLearn
+150,Where can I upload my assessment for my unit?,assessment,assessment submission through iLearn
+151,How do I apply for a university campus card?,campus_services,campus card
+152,Where can I collect my student ID card?,campus_services,campus card
+153,I am a new student and need a campus card. What is the process?,campus_services,campus card
+154,What is the procedure to get my university ID card?,campus_services,campus card
+155,Can I request a replacement for my lost campus card?,campus_services,campus card
+156,What identification do I need to carry on campus?,campus_services,campus identification
+157,Can I use my campus card as student identification?,campus_services,campus identification
+158,Where can I obtain proof of my student identity?,campus_services,campus identification
+159,Do I need a student ID card to access campus facilities?,campus_services,campus identification
+160,How can I show that I am a current university student on campus?,campus_services,campus identification
+161,Can I use my campus card to access university buildings?,campus_services,building access with campus card
+162,How do I get access to restricted study areas?,campus_services,building access with campus card
+163,My campus card is not opening the building entrance. What should I do?,campus_services,building access with campus card
+164,Where can I request building access for my campus card?,campus_services,building access with campus card
+165,Do I need permission to enter certain campus building?,campus_services,building access with campus card
+166,Can I borrow library books using my campus card?,campus_services,library borrowing with campus card
+167,How do I check out books from the university library?,campus_services,library borrowing with campus card
+168,Do I need my student card to borrow library materials?,campus_services,library borrowing with campus card
+169,Where can I get help with borrowing books?,campus_services,library borrowing with campus card
+170,My campus card is not working when I borrow library books.,campus_services,library borrowing with campus card
+171,Where can I print documents on campus?,campus_services,printing services
+172,Are printing facilities available for students?,campus_services,printing services
+173,How do I use the university printing service?,campus_services,printing services
+174,I need to print my assignment before class.,campus_services,printing services
+175,Where can I find a printer in the university?,campus_services,printing services
+176,Where are the student computer labs located?,campus_services,computer labs
+177,Can I use university computers between classes?,campus_services,computer labs
+178,Are there computer labs available for students?,campus_services,computer labs
+179,How can I find a computer workstation on campus?,campus_services,computer labs
+180,Which campus facilities provide computers for students?,campus_services,computer labs
+181,Where is the university IT Service Desk located?,campus_services,IT Service Desk
+182,How can I contact the campus IT help desk?,campus_services,IT Service Desk
+183,Is there a service desk where students can get technology assistance?,campus_services,IT Service Desk
+184,What are the contact details for the IT Service Desk?,campus_services,IT Service Desk
+185,Can I visit the IT help desk for in-person assistance?,campus_services,IT Service Desk
+186,Where can I find the university TechBar?,campus_services,TechBar
+187,Can I visit TechBar for help with my laptop?,campus_services,TechBar
+188,What assistance is available at the campus TechBar?,campus_services,TechBar
+189,How do I get face-to-face support at TechBar?,campus_services,TechBar
+190,Is TechBar available to help students with their devices?,campus_services,TechBar
+191,Where can I find student support services on campus?,campus_services,student support services
+192,How do I contact the university student support team?,campus_services,student support services
+193,What support services are available to students?,campus_services,student support services
+194,Is there a student help centre I can visit?,campus_services,student support services
+195,Where should I go for general student assistance?,campus_services,student support services
+196,How can students access campus facilities?,campus_services,campus facilities access
+197,Are university study spaces available outside class hours?,campus_services,campus facilities access
+198,Where can I find information about campus facility access?,campus_services,campus facilities access
+199,Do students need permission to use certain university facilities?,campus_services,campus facilities access
+200,How do I find out which campus spaces I can use?,campus_services,campus facilities access
+201,How do I log in to iLearn?,it_support,iLearn login
+202,Where can I access my iLearn account?,it_support,iLearn login
+203,What credentials should I use to sign in to iLearn?,it_support,iLearn login
+204,I am a new student and need to log in to iLearn.,it_support,iLearn login
+205,How can I open my iLearn dashboard?,it_support,iLearn login
+206,Why am I unable to access iLearn?,it_support,iLearn access problems
+207,My iLearn account is showing a login error.,it_support,iLearn access problems
+208,What should I do if iLearn is not loading?,it_support,iLearn access problems
+209,I keep getting an error when opening my iLearn units.,it_support,iLearn access problems
+210,How can I fix an issue accessing the iLearn website?,it_support,iLearn access problems
+211,How do I reset my university account password?,it_support,student password
+212,I forgot the password for my student account.,it_support,student password
+213,Where can I change my university login password?,it_support,student password
+214,My student password has expired. What should I do?,it_support,student password
+215,How can I recover access to my account after forgetting my password?,it_support,student password
+216,How do I activate my university account for the first time?,it_support,first-time system login
+217,I am a new student and cannot access the university systems.,it_support,first-time system login
+218,What do I need to do before my first student portal login?,it_support,first-time system login
+219,Where can I find instructions for setting up my student account?,it_support,first-time system login
+220,How do I sign in to the university systems as a new student?,it_support,first-time system login
+221,How do I set up multi-factor authentication for my account?,it_support,multi-factor authentication
+222,Why do I need an authentication code when signing in?,it_support,multi-factor authentication
+223,Where can I register my phone for university MFA?,it_support,multi-factor authentication
+224,How do I enable two-step verification for my student login?,it_support,multi-factor authentication
+225,What is the process for configuring multi-factor authentication?,it_support,multi-factor authentication
+226,I am not receiving the authentication code on my phone.,it_support,MFA problems
+227,What should I do if my MFA verification keeps failing?,it_support,MFA problems
+228,I changed my phone and cannot approve my university login.,it_support,MFA problems
+229,How can I regain access if my authenticator app is not working?,it_support,MFA problems
+230,My university account is asking for MFA but I cannot verify my identity.,it_support,MFA problems
+231,How do I connect my laptop to campus Wi-Fi?,it_support,campus Wi-Fi
+232,Why is the university wireless network not connecting?,it_support,campus Wi-Fi
+233,What network should students use for internet access on campus?,it_support,campus Wi-Fi
+234,My phone keeps disconnecting from the campus Wi-Fi.,it_support,campus Wi-Fi
+235,How can I troubleshoot the university Wi-Fi connection?,it_support,campus Wi-Fi
+236,How do I access my university student email?,it_support,student email access
+237,Why can't I sign in to my student email account?,it_support,student email access
+238,Where can I open my university email inbox?,it_support,student email access
+239,My student email is not syncing on my phone.,it_support,student email access
+240,How can I fix problems receiving emails on my university account?,it_support,student email access
+241,How do I log in to the eStudent portal?,it_support,eStudent access
+242,Why is my eStudent account not opening?,it_support,eStudent access
+243,I keep getting an error when accessing eStudent.,it_support,eStudent access
+244,What should I do if the student portal is unavailable?,it_support,eStudent access
+245,How can I resolve a login problem with eStudent?,it_support,eStudent access
+246,How do I report a technical problem through OneHelp?,it_support,OneHelp technical support
+247,Where can I submit an IT support request?,it_support,OneHelp technical support
+248,Can I create a help ticket for a university system error?,it_support,OneHelp technical support
+249,How do I contact technical support about my account?,it_support,OneHelp technical support
+250,Where can I track a request I submitted for IT assistance?,it_support,OneHelp technical support

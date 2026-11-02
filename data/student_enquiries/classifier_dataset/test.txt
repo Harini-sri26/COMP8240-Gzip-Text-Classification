@@ -1,0 +1,50 @@
+fees	What options are available for paying my fees?
+assessment	What is the process for requesting an assessment extension?
+fees	Am I eligible for a tuition refund after dropping a unit?
+fees	Can I get my fees refunded after I withdraw from a unit?
+fees	Can I pay my university fees online?
+campus_services	Can I use university computers between classes?
+assessment	How can I view the results from this semester?
+campus_services	Where are the student computer labs located?
+campus_services	Where should I go for general student assistance?
+campus_services	Is there a student help centre I can visit?
+enrolment	Am I allowed to study more than the standard number of credit units?
+it_support	Can I create a help ticket for a university system error?
+fees	What payment methods can I use to pay my university fees?
+campus_services	How do I contact the university student support team?
+fees	What happens to my tuition fees if I withdraw from a subject?
+it_support	How can I fix an issue accessing the iLearn website?
+it_support	How do I report a technical problem through OneHelp?
+fees	How do I request a fee refund after withdrawing from a course?
+assessment	How can I request an extension for my assessment?
+enrolment	Where can I apply for a credit overload?
+enrolment	Can I enrol in more units than the normal study load?
+assessment	Can I get more time to complete my assignment?
+fees	Will my unit fees be returned if I withdraw?
+campus_services	What support services are available to students?
+it_support	Where can I submit an IT support request?
+assessment	I don't think I can finish my assessment on time. What should I do?
+assessment	When will my final assessment results be released?
+campus_services	Which campus facilities provide computers for students?
+fees	How can I pay my tuition fees?
+assessment	Where can I check my assessment results?
+campus_services	How can I find a computer workstation on campus?
+assessment	Where are my university grades published?
+enrolment	Can I stop studying one of my units this semester?
+fees	Where do I go to make a fee payment?
+campus_services	Are there computer labs available for students?
+campus_services	Where can I find student support services on campus?
+it_support	Why am I unable to access iLearn?
+enrolment	How do I request permission to take extra subjects?
+enrolment	How can I withdraw from a unit I am enrolled in?
+it_support	I keep getting an error when opening my iLearn units.
+assessment	How do I find out my grades for my assessments?
+it_support	Where can I track a request I submitted for IT assistance?
+it_support	My iLearn account is showing a login error.
+assessment	Where can I apply for an extension on my assessment?
+enrolment	What do I need to do if I want to leave a unit?
+enrolment	I want to drop a subject I am currently enrolled in, what is the process?
+it_support	How do I contact technical support about my account?
+enrolment	I want to take more units this semester. Is that possible?
+enrolment	Where do I go to remove a unit from my enrolment?
+it_support	What should I do if iLearn is not loading?

@@ -1,0 +1,51 @@
+class,source_topic,source_url
+enrolment,unit enrolment,https://students.mq.edu.au/study/enrolling/choosing-units
+enrolment,choosing units,https://students.mq.edu.au/study/enrolling/choosing-units
+enrolment,unit withdrawal,https://students.mq.edu.au/study/changing/withdraw-units
+enrolment,withdrawal after census date,https://students.mq.edu.au/study/changing/withdraw-units
+enrolment,course withdrawal,https://students.mq.edu.au/study/break/stopping-study
+enrolment,study load,https://students.mq.edu.au/study/enrolling/plan-your-course
+enrolment,unit prerequisites,https://students.mq.edu.au/study/enrolling/plan-your-course
+enrolment,unit waiver,https://students.mq.edu.au/study/enrolling/choosing-units/unit-waivers
+enrolment,credit overload,https://students.mq.edu.au/study/enrolling/choosing-units/credit-overload
+enrolment,class registration,https://students.mq.edu.au/study/enrolling/choosing-units
+fees,checking outstanding fees,https://students.mq.edu.au/finances/fees/how-to-pay
+fees,fee payment methods,https://students.mq.edu.au/finances/fees/how-to-pay
+fees,fee payment due date,https://students.mq.edu.au/finances/fees/how-to-pay
+fees,student fee invoice,https://students.mq.edu.au/finances/fees/how-to-pay
+fees,international fee payment,https://students.mq.edu.au/finances/fees/how-to-pay
+fees,fee liability after withdrawal,https://students.mq.edu.au/study/changing/withdraw-units
+fees,fee refund after withdrawal,https://students.mq.edu.au/study/changing/withdraw-units/withdraw-without-penalty
+fees,HECS-HELP debt remission,https://students.mq.edu.au/study/changing/withdraw-units/withdraw-without-penalty
+fees,FEE-HELP debt remission,https://students.mq.edu.au/study/changing/withdraw-units/withdraw-without-penalty
+fees,statement of outstanding charges,https://students.mq.edu.au/finances/fees/how-to-pay
+assessment,special consideration,https://students.mq.edu.au/study/assessment-exams/special-consideration
+assessment,assessment extension,https://students.mq.edu.au/study/assessment-exams/special-consideration
+assessment,special consideration evidence,https://students.mq.edu.au/study/assessment-exams/special-consideration
+assessment,special consideration deadline,https://students.mq.edu.au/study/assessment-exams/special-consideration
+assessment,assessment results,https://students.mq.edu.au/study/assessment-exams/results
+assessment,incomplete grade,https://students.mq.edu.au/study/assessment-exams/results
+assessment,supplementary exam results,https://students.mq.edu.au/study/assessment-exams/results
+assessment,grade appeal,https://students.mq.edu.au/study/assessment-exams/appeals/grade-appeal
+assessment,grading system,https://students.mq.edu.au/study/assessment-exams/academic-transcripts/grading-system
+assessment,assessment submission through iLearn,https://students.mq.edu.au/support/technology/systems/ilearn
+campus_services,campus card,https://students.mq.edu.au/uni-life/community/campus-card
+campus_services,campus identification,https://students.mq.edu.au/uni-life/community/campus-card
+campus_services,building access with campus card,https://students.mq.edu.au/uni-life/community/campus-card
+campus_services,library borrowing with campus card,https://students.mq.edu.au/uni-life/community/campus-card
+campus_services,printing services,https://students.mq.edu.au/support/technology
+campus_services,computer labs,https://students.mq.edu.au/support/technology
+campus_services,IT Service Desk,https://students.mq.edu.au/support/technology
+campus_services,TechBar,https://students.mq.edu.au/support/technology
+campus_services,student support services,https://students.mq.edu.au/support/technology
+campus_services,campus facilities access,https://students.mq.edu.au/uni-life/community/campus-card
+it_support,iLearn login,https://students.mq.edu.au/support/technology/systems/ilearn
+it_support,iLearn access problems,https://students.mq.edu.au/support/technology/systems/ilearn
+it_support,student password,https://students.mq.edu.au/support/technology/systems
+it_support,first-time system login,https://students.mq.edu.au/support/technology/systems
+it_support,multi-factor authentication,https://students.mq.edu.au/support/technology/MFA
+it_support,MFA problems,https://students.mq.edu.au/support/technology/MFA
+it_support,campus Wi-Fi,https://students.mq.edu.au/support/technology/wifi-networks
+it_support,student email access,https://students.mq.edu.au/support/technology/systems
+it_support,eStudent access,https://students.mq.edu.au/support/technology/systems
+it_support,OneHelp technical support,https://students.mq.edu.au/support/technology

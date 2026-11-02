@@ -1,0 +1,20 @@
+=== TF-IDF + LOGISTIC REGRESSION BASELINE ===
+Training examples: 200
+Testing examples: 50
+Accuracy: 82.00%
+
+Classification report:
+                 precision    recall  f1-score   support
+
+     assessment      0.778     0.700     0.737        10
+campus_services      0.750     0.900     0.818        10
+      enrolment      0.818     0.900     0.857        10
+           fees      0.900     0.900     0.900        10
+     it_support      0.875     0.700     0.778        10
+
+       accuracy                          0.820        50
+      macro avg      0.824     0.820     0.818        50
+   weighted avg      0.824     0.820     0.818        50
+
+
+Predictions saved to: /Users/harinisri/Desktop/Semester-3/COMP8240 - Applications of Data Science/Assignment/Project/My project/npc_gzip-main/original_codebase/student_baseline_predictions.csv
