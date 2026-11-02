@@ -49,7 +49,6 @@ COMP8240-Gzip-Text-Classification/
 ├── results/
 │   ├── ag_news_replication/
 │   └── [student-enquiry evaluation outputs]
-└── report/
 ```
 
 The `original_codebase/` directory contains code adapted from the original authors' implementation alongside additional evaluation scripts developed for this project. The student-enquiry scripts and AG News tie-comparison script are project extensions, not components of the original paper.
@@ -154,6 +153,38 @@ The k=5 compression-based result was the highest among the tested k values of 1,
 | TF-IDF + Logistic Regression | 83.20% | 7.29 percentage points |
 
 The TF-IDF baseline outperformed the compression-based method across all five evaluated splits. These splits reuse the same underlying dataset and should not be treated as five independent datasets.
+
+## Environment Setup
+
+The experiments were successfully reproduced using Python 3.9.25 in a Conda environment on macOS.
+
+The project dependencies are listed in `requirements.txt`. Python 3.9 is recommended for reproducing the reported experiments.
+
+### Installation
+
+Clone the repository and navigate to its root directory:
+
+```bash
+git clone https://github.com/Harini-sri26/COMP8240-Gzip-Text-Classification.git
+cd COMP8240-Gzip-Text-Classification
+```
+
+Create and activate a Conda environment:
+
+```bash
+conda create -n comp8240-replication python=3.9
+conda activate comp8240-replication
+```
+
+Install the required packages:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+The project uses older pinned versions of PyTorch and TorchText from the original implementation. Installation compatibility may depend on the operating system and available package builds.
+
+Run the experiment commands below from the repository root.
 
 ## Running the Project
 
