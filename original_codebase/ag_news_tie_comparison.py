@@ -91,7 +91,8 @@ tie_count = 0
 
 for row in distances:
     # Stable ordering gives deterministic neighbour selection.
-    neighbour_indices = np.argsort(row, kind="stable")[:K]
+    # Match the original implementation's neighbour selection exactly.
+    neighbour_indices = np.argsort(np.asarray(row))[:K]
     neighbour_labels = [
         train_labels[index]
         for index in neighbour_indices
